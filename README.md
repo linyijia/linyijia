@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @linyijia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![103](https://github.com/linyijia/linyijia/assets/137697770/f22c94dd-648f-4cdd-bdf1-65fe06e15dd9)
 
-<!---
-linyijia/linyijia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+https://github.com/linyijia/linyijia/assets/137697770/518ed394-3b36-472e-bb16-bb1b885c6b9e
+
